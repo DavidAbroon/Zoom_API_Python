@@ -49,8 +49,8 @@ def startMeeting():
     payload = {
         "method": "join",
         "params": {
-            "meeting_number": 88549513264,
-            "password": "5111",
+            "meeting_number": ,
+            "password": "",
             "force_accept": "false"
         }
     }
